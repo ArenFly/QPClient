@@ -1,0 +1,4 @@
+frameworks/cocos2d-x/
+runtime/
+simulator/
+frameworks/runtime-src/proj.win32/Debug.win32/
